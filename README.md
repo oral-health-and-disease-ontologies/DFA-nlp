@@ -1,2 +1,2 @@
 # DFA-nlp
-Perform natural langue processing on DFA data.
+Repository for code to perform natural language processing on DFA data.
