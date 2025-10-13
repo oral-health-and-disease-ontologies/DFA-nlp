@@ -304,7 +304,3 @@ print(json.load(open("models/bertopic/topics.json"))[0])
 - If you use this in a paper, cite the underlying libraries (scikit-learn, corextopic, BERTopic, sentence-transformers, UMAP, HDBSCAN) and your data sources (SAGE Encyclopedia, McNeil & Berryman, McNeil & Randall).
 
 ---
-
-## 11) One‑sentence summary for your professor
-
-> “We ingest, clean, and chunk the PDFs; train three complementary topic models (NMF, Anchored CorEx, BERTopic); and compare them with coherence, seed‑overlap, and term diversity, then read topic cards to interpret what the models found about dental fear/anxiety.”
