@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn>=1.2
+nltk
+PyYAML
+pdfminer.six
+matplotlib
+corex_topic
+gensim>=4.3

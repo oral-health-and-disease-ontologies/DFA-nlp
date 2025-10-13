@@ -1,0 +1,38 @@
+fear_anxiety_sns:
+  - fear
+  - anxiety
+  - avoidance
+  - threat
+  - vigilance
+  - arousal
+  - autonomic
+  - sympathetic
+pain:
+  - pain
+  - painful
+  - analgesia
+  - sensitivity
+  - nociception
+claustrophobia:
+  - claustrophobia
+  - confinement
+  - enclosed
+mutilation:
+  - blood
+  - injury
+  - needle
+  - injection
+  - drilling
+  - extraction
+assessment_exposure:
+  - assessment
+  - questionnaire
+  - dfs
+  - fpq
+  - exposure
+  - extinction
+  - conditioning
+  - avoidance
+  - desensitization
+  - therapy
+  - intervention

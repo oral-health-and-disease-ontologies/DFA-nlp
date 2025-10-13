@@ -1,0 +1,4 @@
+n_topics: 5
+use_anchors: true
+anchor_strength: 2.0
+anchors_file: configs/seeds.yaml

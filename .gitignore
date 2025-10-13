@@ -1,0 +1,100 @@
+# -----------------------------
+# Python basics
+# -----------------------------
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Packaging / build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Caches & tooling
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+pytestdebug.log
+
+# Coverage
+.coverage*
+htmlcov/
+
+# Editors / OS
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# -----------------------------
+# Project-specific ignores
+# -----------------------------
+
+# Data produced by the pipeline (keep raw PDFs under version control)
+data/interim/**
+data/processed/**
+!data/interim/.gitkeep
+!data/processed/.gitkeep
+
+# If you want to keep raw PDFs tracked, do NOT ignore this:
+# data/raw/**
+
+# Model artifacts (large/ephemeral)
+models/**/*
+!models/.gitkeep
+# Allow small JSON topic descriptors if you prefer to version them:
+# !models/nmf/best_terms.json
+# !models/corex/topics.json
+# !models/bertopic/topics.json
+# But always ignore large pickle/model binaries:
+*.pkl
+*.pickle
+*.bin
+*.pt
+*.onnx
+*.safetensors
+
+# Evaluation outputs (can be regenerated)
+evaluation/**
+!evaluation/.gitkeep
+
+# Generated reports
+reports/topic_cards/**
+reports/figures/**
+!reports/topic_cards/.gitkeep
+!reports/figures/.gitkeep
+
+# Notebooks outputs
+notebooks/**/.ipynb_checkpoints/
+notebooks/*-checkpoint.ipynb
+
+# Logs
+logs/
+*.log
+
+# Local env/config secrets (add if you create them)
+.env
+.env.*
+.secrets/
+*.secret
+
+# Node / front-end (if you add visualizations later)
+node_modules/
+npm-debug.log*
+
+# OS-specific temp files
+*.swp
+*.swo
+~$*

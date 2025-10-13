@@ -1,0 +1,62 @@
+paths:
+  raw_dir: data/raw
+  interim_dir: data/interim
+  processed_dir: data/processed
+  models_dir: models
+  reports_dir: reports
+  evaluation_dir: evaluation
+
+chunking:
+  target_tokens: 320
+  overlap_tokens: 50
+  use_headings: true
+
+text_cleaning:
+  lowercase: true
+  strip_quotes: true
+  fix_hyphenation: true
+  remove_references: true
+
+language:
+  lemmatize: true
+  keep_pos: ["NOUN", "ADJ", "PROPN", "VERB"]
+  remove_stopwords: true
+  extra_stopwords:
+    - www
+    - http
+    - https
+    - url
+    - doi
+    - sagepub
+    - copyright
+    - permission
+    - chapter
+    - figure
+    - table
+    - publisher
+    - references
+    - reference
+    - young
+    - kleinknecht
+    - klepac
+    - rachman
+    - york
+    - mcglynn
+    - mcneil
+    - randall
+    - berryman
+    - mystkowski
+    - zelikowsky
+    - lopatka
+    - daniel
+    - matthew
+    - exclusively
+    - exlusively
+
+tfidf:
+  ngram_min: 1
+  ngram_max: 3
+  min_df: 1
+  max_df: 0.9
+
+random_seed: 42
