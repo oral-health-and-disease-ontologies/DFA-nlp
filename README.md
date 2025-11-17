@@ -46,13 +46,6 @@ bash scripts/04_evaluate.sh
 bash scripts/05_make_report.sh
 ```
 
-Key artifacts to show your professor:
-- `evaluation/model_comparison.csv` — **one line per model** with seed-overlap total, mean coherence (c_v), and term diversity.
-- `evaluation/coherence.csv` — **per-topic** coherence scores.
-- `reports/topic_cards/<model>/topic_*.md` — **read these to interpret topics**.
-
----
-
 ## 3) Repository structure (what each folder/file does)
 
 ```
@@ -179,8 +172,6 @@ topic-modeling-dental-fear/
 - **Term diversity**: fraction of unique words across topics; closer to 1.0 = less redundancy.  
   → Reported in `model_comparison.csv`.
 
-**Explain to a reviewer:** *“We compared three complementary models. BERTopic had the strongest domain alignment and coherence; CorEx offered excellent topic separation with seeds; NMF was most transparent but weaker on this small corpus. We validated with both intrinsic (coherence/diversity) and extrinsic (seed overlap) measures, plus qualitative topic cards.”*
-
 
 ## Results (from this corpus & run)
 
@@ -198,7 +189,7 @@ We trained **three models** on the 3 PDFs (20 chunks after preprocessing):
 | CorEx     | 4                 | 0.5621                  | **1.0000**         |
 | NMF       | 0                 | 0.3956                  | 0.3333             |
 
-**Interpretation.** On this small academic corpus:
+**Interpretation.** 
 - **BERTopic** shows the best overall balance (highest mean coherence + strong seed alignment + high diversity).
 - **CorEx** is a close second with **perfect diversity** and solid coherence, especially when seeds are aligned to constructs of interest.
 - **NMF** is transparent but underperforms here (likely due to small data and author/publisher surface forms). It typically improves with more documents and tighter stoplists.
