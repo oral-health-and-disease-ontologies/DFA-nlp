@@ -294,3 +294,4 @@ print(json.load(open("models/bertopic/topics.json"))[0])
 - See `LICENSE`.  
 - If you use this in a paper, cite the underlying libraries (scikit-learn, corextopic, BERTopic, sentence-transformers, UMAP, HDBSCAN) and your data sources (SAGE Encyclopedia, McNeil & Berryman, McNeil & Randall).
 
+---
