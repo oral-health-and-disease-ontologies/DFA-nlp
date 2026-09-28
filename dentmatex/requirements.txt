@@ -1,0 +1,4 @@
+ollama
+python-docx
+rdflib
+pypdf

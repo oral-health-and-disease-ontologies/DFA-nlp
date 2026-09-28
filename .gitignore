@@ -98,3 +98,9 @@ npm-debug.log*
 *.swp
 *.swo
 ~$*
+
+# DentMatEx generated outputs
+dentmatex/outputs/
+
+# DentMatEx input articles
+dentmatex/input/
