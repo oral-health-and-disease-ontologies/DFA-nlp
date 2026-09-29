@@ -1,0 +1,87 @@
+{
+  "source": "Anxiety_vs_Fear_SAGE_2017.pdf",
+  "total_passages": 22,
+  "total_extractions": 6,
+  "extractions": [
+    {
+      "other_relevant_information": [
+        "This PDF has been generated from SAGE Knowledge. Please note that the pagination of the online version will vary from the pagination of the print book."
+      ],
+      "evidence": [
+        "This PDF has been generated from SAGE Knowledge. Please note that the pagination of the online version will vary from the pagination of the print book."
+      ],
+      "passage_id": 3
+    },
+    {
+      "cause_or_trigger": [
+        "perceived threat",
+        "closer in distance and/or in time"
+      ],
+      "how_experienced_or_manifested": [
+        "increased alertness and reactivity",
+        "fight-or-flight response"
+      ],
+      "response": [
+        "escape",
+        "racing thoughts"
+      ],
+      "other_relevant_information": [
+        "Fear is the immediate, in-the-moment reaction to a perceived threat and is typically associated with organized, robust visceral arousal. The sympathetic nervous system (SNS) is activated in situations perceived as threatening. Activation of the SNS allows for increased alertness and reactivity that may be necessary to cope with potential danger, such as when a threatening animal is encountered, or when one is driving an automobile on an icy road and a large truck is careening uncontrollably toward the automobile."
+      ],
+      "evidence": [
+        "The likelihood of a fear reaction increases when a perceived threat is closer in distance and/or in time, because the body is initiating a fight-or-flight response.",
+        "In addition to the physiological component of fear, there are behavioral and cognitive responses to potential immediate danger, such as escape and racing thoughts."
+      ],
+      "passage_id": 5
+    },
+    {
+      "fear_anxiety_term": [
+        "anxiety"
+      ],
+      "how_experienced_or_manifested": [
+        "worrying about needing a dental appointment",
+        "worries about what he or she said or did in a social situation"
+      ],
+      "other_relevant_information": [
+        "Anxiety typically involves worrying about experiencing threats that could or will be experienced in the future. Anxiety, a less coherent set of responses than fear, can be cognitively “nagging”."
+      ],
+      "evidence": [
+        "Anxiety, a less coherent set of responses than fear, can be cognitively “nagging,” such as when a person worries about needing a dental appointment or about what he or she said or did in a social situation."
+      ],
+      "passage_id": 6
+    },
+    {
+      "other_relevant_information": [
+        "Despite anxiety and fear being distinct concepts, they are similar, are intricately related, and overlap at times. Clearly defining which reactions are fear and which are anxiety is quite challenging. Most contemporary assessment strategies crudely evaluate anxiety and fear together as one “clump,” although they actually should be independently understood."
+      ],
+      "evidence": [
+        "Despite anxiety and fear being distinct concepts, they are similar, are intricately related, and overlap at times. Clearly defining which reactions are fear and which are anxiety is quite challenging. Most contemporary assessment strategies crudely evaluate anxiety and fear together as one “clump,” although they actually should be independently understood."
+      ],
+      "passage_id": 7
+    },
+    {
+      "other_relevant_information": [
+        "Many psychological disorders are defined by excessive, impairing, and often irrational fear of or anxiety about an object or situation. Termed anxiety disorders, several actually are “fear” disorders."
+      ],
+      "evidence": [
+        "Many psychological disorders are defined by excessive, impairing, and often irrational fear of or anxiety about an object or situation. Termed anxiety disorders, several actually are “fear” disorders."
+      ],
+      "passage_id": 9
+    },
+    {
+      "fear_anxiety_term": [
+        "anxiety",
+        "fear"
+      ],
+      "other_relevant_information": [
+        "The treatment should be selected and adapted based on whether the problem is more one of fear or more one of anxiety.",
+        "Exposure therapy involves providing opportunities for new learning and ultimately a more accurate appraisal of feared objects or situations so that the feared objects or situations are perceived as less threatening."
+      ],
+      "evidence": [
+        "The similarities and differences between anxiety and fear suggest that the treatment should be selected and adapted based on whether the problem is more one of fear or more one of anxiety.",
+        "Exposure therapy involves providing opportunities for new learning and ultimately a more accurate appraisal of feared objects or situations so that the feared objects or situations are perceived as less threatening."
+      ],
+      "passage_id": 12
+    }
+  ]
+}

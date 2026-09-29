@@ -1,0 +1,240 @@
+{
+  "source": "McNeil_Berryman_1989.pdf",
+  "total_passages": 61,
+  "total_extractions": 19,
+  "extractions": [
+    {
+      "cause_or_trigger": [
+        "Fear of pain",
+        "Mutilation fear",
+        "Fear of being closed-in"
+      ],
+      "other_relevant_information": [
+        "Fears about social contact, pain, mutilation (e.g. injury, blood, disfigurement), and being closed-in were assessed within the realm of verbal report; they were studied as possible components and/or concomitants of the dental fear construct."
+      ],
+      "evidence": [
+        "Fear of pain was found to be the most significant predictor of dental fear in both males and females. For females only, mutilation fear was the next strongest determinant. Fear of being closed-in was an additional significant dental fear predictor for both sexes."
+      ],
+      "passage_id": 3
+    },
+    {
+      "fear_anxiety_term": [
+        "dental fear"
+      ],
+      "cause_or_trigger": [
+        "learning history that very frequently includes dental trauma earlier in life",
+        "family environment that included individuals who modeled dental fear behavior",
+        "low pain tolerance",
+        "history of facial injury",
+        "high trait anxiety"
+      ],
+      "how_experienced_or_manifested": [
+        "fears of (a) intraoral injections, (b) dental drilling, (c) critical comments by dental personnel due to poor oral hygiene, (d) pain, and (e) loss of control"
+      ],
+      "other_relevant_information": [
+        "There are data to indicate that adults with high dental fear have a learning history that very frequently includes dental trauma earlier in life (Lautch, 1971) and/or a family environment that included individuals who modeled dental fear behavior (Lautch, 1971; Shoben and Borland, 1954). Forgione and Clark (1974), however, later indicated that low pain tolerance, history of facial injury, and high trait anxiety contribute to dental fear as well. It has also been suggested by Melamed (1979) that a number of other fears are concomitant with (or possibly a part of) dental fear, including fears of (a) intraoral injections, (b) dental drilling, (c) critical comments by dental personnel due to poor oral hygiene, (d) pain, and (e) loss of control."
+      ],
+      "evidence": [
+        "There are data to indicate that adults with high dental fear have a learning history that very frequently includes dental trauma earlier in life (Lautch, 1971) and/or a family environment that included individuals who modeled dental fear behavior (Lautch, 1971; Shoben and Borland, 1954).",
+        "Forgione and Clark (1974), however, later indicated that low pain tolerance, history of facial injury, and high trait anxiety contribute to dental fear as well.",
+        "It has also been suggested by Melamed (1979) that a number of other fears are concomitant with (or possibly a part of) dental fear, including fears of (a) intraoral injections, (b) dental drilling, (c) critical comments by dental personnel due to poor oral hygiene, (d) pain, and (e) loss of control."
+      ],
+      "passage_id": 7
+    },
+    {
+      "fear_anxiety_term": [
+        "dental fear"
+      ],
+      "event_or_context": [
+        "the sight and feeling of the anesthetic needle",
+        "the sight, sound, and feeling of the drill"
+      ],
+      "how_experienced_or_manifested": [
+        "sight",
+        "feeling"
+      ],
+      "other_relevant_information": [
+        "The Dental Fear Survey has a factor structure that designates a subscale to measure fears of specific dental stimuli."
+      ],
+      "evidence": [
+        "The sight and feeling of the anesthetic needle, and the sight, sound, and feeling of the drill, have been well substantiated by research as important dental fear stimuli (Hirschman, Revland, Hawk and Young, 1980; Kleinknecht, Klepac and Alexander, 1973).",
+        "Since injection and drilling fears contribute to the Dental Fear Survey score, which will be used as a criterion variable here, they will not be further considered as to their relatedness to the general construct of dental fear."
+      ],
+      "passage_id": 8
+    },
+    {
+      "fear_anxiety_term": [
+        "dental fear"
+      ],
+      "cause_or_trigger": [
+        "fear of negative evaluation by the dentist",
+        "pain"
+      ],
+      "other_relevant_information": [
+        "Social fears, particularly fear of negative evaluation by the dentist, appear to be related to dental fear (Gale, 1972; Stouthard and Hoogstraten, 1987). Other studies have indicated that fear of pain and dental fear are positively and significantly related (McNeil, Rainwater and Al-Jazireh, 1986), and that young adult dental patients with high dental fear report experiencing more pain during treatment than their low fear counterparts (Kleinknecht and Bernstein, 1978), and that highly fearful dental patients have lower tolerance of dental pain (Klepac, Dowling and Hauge, 1982)."
+      ],
+      "evidence": [
+        "Social fears, particularly fear of negative evaluation by the dentist, appear to be related to dental fear (Gale, 1972; Stouthard and Hoogstraten, 1987).",
+        "Other studies have indicated that fear of pain and dental fear are positively and significantly related (McNeil, Rainwater and Al-Jazireh, 1986), and that young adult dental patients with high dental fear report experiencing more pain during treatment than their low fear counterparts (Kleinknecht and Bernstein, 1978), and that highly fearful dental patients have lower tolerance of dental pain (Klepac, Dowling and Hauge, 1982)."
+      ],
+      "passage_id": 9
+    },
+    {
+      "cause_or_trigger": [
+        "confinement in the dental chair",
+        "sense of being closed-in and/or loss of control",
+        "fear of mutilation (e.g. tissue damage)"
+      ],
+      "other_relevant_information": [
+        "It is intuitively compelling but not substantiated by research that these factors could contribute to feelings of fear related to dental procedures."
+      ],
+      "evidence": [
+        "Additionally, it is intuitively compelling, but not substantiated by research, that confinement in the dental chair, surrounded by the dentist and dental assistant, with the attendant necessity of sitting still and otherwise cooperating during dental procedures, could contribute to feelings of fear related to a sense of being closed-in and/or loss of control. Finally, another seemingly likely, but as yet unverified, antecedent of dental fear is fear of mutilation (e.g. tissue damage)."
+      ],
+      "passage_id": 10
+    },
+    {
+      "cause_or_trigger": [
+        "social fear",
+        "fear of pain",
+        "mutilation fear",
+        "fear of being closed-in"
+      ],
+      "other_relevant_information": [
+        "This study addressed the need to investigate various dental-related fears that could be reliably measured with available verbal report instruments."
+      ],
+      "evidence": [
+        "Specifically, social fear, fear of pain, mutilation fear, and fear of being closed-in were assessed in terms of their ability to “predict” dental fear."
+      ],
+      "passage_id": 11
+    },
+    {
+      "cause_or_trigger": [
+        "FPQ-I",
+        "CQ",
+        "MQ"
+      ],
+      "other_relevant_information": [
+        "Consistent with predictions, the FPQ-I, CQ, and MQ were found to be significant components of dental fear. These three variables in total accounted for about 19% of the variance in the criterion."
+      ],
+      "evidence": [
+        "Consistent with predictions, the FPQ-I, CQ, and MQ were found to be significant components of dental fear."
+      ],
+      "passage_id": 17
+    },
+    {
+      "other_relevant_information": [
+        "The SADS and IAQ are not listed in this table as they did not contribute significantly to the total dental fear variance."
+      ],
+      "evidence": [
+        "The SADS and IAQ are not listed in this table as they did not contribute significantly to the total dental fear variance."
+      ],
+      "passage_id": 22
+    },
+    {
+      "fear_anxiety_term": [
+        "dental fear"
+      ],
+      "who": [
+        "young adults",
+        "dental fearful patients"
+      ],
+      "cause_or_trigger": [
+        "fears of pain",
+        "being closed-in",
+        "mutilation"
+      ],
+      "other_relevant_information": [
+        "fears are perhaps concomitant with, and/or are components of the construct of dental fear",
+        "clinical implications are that dentists and behavioral scientists/practitioners should consider that pain, confinement (to the dental chair), and/or mutilation fears might be manifest in dental fearful patients"
+      ],
+      "evidence": [
+        "These results support the hypotheses that fears of pain, being closed-in, and mutilation are related to dental fear in young adults.",
+        "Moreover, conceptualizing these results using Rachman and Lopatka’s (1986a, b) ideas about multiple fears, it appears that there may be at least some degree of inter-dependence of dental fear and these other fears in certain individuals.",
+        "Clinical implications are that dentists and behavioral scientists/practitioners should consider that pain, confinement (to the dental chair), and/or mutilation fears might be manifest in dental fearful patients."
+      ],
+      "passage_id": 26
+    },
+    {
+      "cause_or_trigger": [
+        "social anxiety"
+      ],
+      "other_relevant_information": [
+        "social fears were not found to be significant predictors/components of dental fear"
+      ],
+      "evidence": [
+        "Despite earlier evidence to the contrary (Gale, 1972; Stouthard and Hoogstraten, 1987), social fears were not found to be significant predictors/components of dental fear, even though two social anxiety questionnaires were used in this study."
+      ],
+      "passage_id": 27
+    },
+    {
+      "other_relevant_information": [
+        "Additionally, it may be that the use of more dental-relevant social fear assessment instruments would yield positive results. In general, the use of more dental-relevant assessment instruments might be advantageous in assessing the contribution of other fear constructs to dental fear."
+      ],
+      "evidence": [
+        "In general, the use of more dental-relevant assessment instruments might be advantageous in assessing the contribution of other fear constructs to dental fear."
+      ],
+      "passage_id": 28
+    },
+    {
+      "cause_or_trigger": [
+        "greater fears of injury or disfigurement from dental treatment"
+      ],
+      "other_relevant_information": [
+        "New studies should address these possible gender differences."
+      ],
+      "evidence": [
+        "Perhaps females have greater fears of injury or disfigurement from dental treatment than do males, thereby leading the Mutilation Questionnaire score to be a significant predictor for females, but not for males alone."
+      ],
+      "passage_id": 29
+    },
+    {
+      "other_relevant_information": [
+        "Future research might include a broader age range of dental patients and/or dental avoidant participants."
+      ],
+      "evidence": [
+        "Future research might include a broader age range of dental patients and/or dental avoidant participants."
+      ],
+      "passage_id": 32
+    },
+    {
+      "other_relevant_information": [
+        "Gale E. N. (1972) Fears of the dental situation."
+      ],
+      "passage_id": 37
+    },
+    {
+      "other_relevant_information": [
+        "Origins and characteristics of fear of dentistry."
+      ],
+      "passage_id": 41
+    },
+    {
+      "fear_anxiety_term": [
+        "dental phobia"
+      ],
+      "other_relevant_information": [
+        "Lautch H. (1971) Dental phobia. Br. J. Psychiar. 119, 151-158."
+      ],
+      "passage_id": 48
+    },
+    {
+      "other_relevant_information": [
+        "McGlynn F. D, (1988) Dental Fear Survey. In Dictionary of Behavioral Assessment Techniques (Ed. by Hersen M. and BeIlack A. S.) Fergamon, New York, U.S.A."
+      ],
+      "passage_id": 50
+    },
+    {
+      "other_relevant_information": [
+        "Ratings of fears associated with twelve dental situations."
+      ],
+      "passage_id": 58
+    },
+    {
+      "other_relevant_information": [
+        "A structured interview for assessing dental fear."
+      ],
+      "passage_id": 59
+    }
+  ]
+}
