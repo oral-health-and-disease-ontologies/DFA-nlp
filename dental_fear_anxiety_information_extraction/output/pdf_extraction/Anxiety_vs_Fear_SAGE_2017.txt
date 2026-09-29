@@ -1,0 +1,111 @@
+The SAGE Encyclopedia of Abnormal
+and Clinical Psychology
+Anxiety Versus Fear
+Contributors: Daniel W. McNeil, Matthew C. Arias & Cameron L. Randall
+Edited by: Amy Wenzel
+Book Title: The SAGE Encyclopedia of Abnormal and Clinical Psychology
+Chapter Title: "Anxiety Versus Fear"
+Pub. Date: 2017
+Access Date: May 11, 2017
+Publishing Company: SAGE Publications, Inc.
+City: Thousand Oaks,
+Print ISBN: 9781483365831
+Online ISBN: 9781483365817
+DOI: http://dx.doi.org/10.4135/9781483365817.n106
+Print pages: 279-280
+©2017 SAGE Publications, Inc.. All Rights Reserved.
+This PDF has been generated from SAGE Knowledge. Please note that the pagination of
+the online version will vary from the pagination of the print book.
+Anxiety and fear are terms that are used interchangeably both in scientific terminology and in
+lay language, but they describe different emotional states and, therefore, represent unique
+concepts. Like other emotional states, they are conceptualized to exist on continua and are
+described in terms of three response systems: (1) behavioral, (2) cognitive, and (3)
+physiological. Responses in the three systems may occur simultaneously or independently;
+there are significant differences in reactivity across individuals. At mild to moderate levels,
+anxiety and fear are positive, helpful emotions; for instance, when considering an upcoming
+exam, a mild level of anxiety may result in increased attention to the task, including improved
+time management and a greater level of studying and exam preparation.
+Fear is the immediate, in-the-moment reaction to a perceived threat and is typically associated
+with organized, robust visceral arousal. The sympathetic nervous system (SNS; i.e., fight-or-
+flight response) is activated in situations perceived as threatening. Activation of the SNS
+allows for increased alertness and reactivity that may be necessary to cope with potential
+danger, such as when a threatening animal is encountered, or when one is driving an
+automobile on an icy road and a large truck is careening uncontrollably toward the
+automobile. SNS activation typically occurs only when the threat is perceived as imminent and
+immediate. The likelihood of a fear reaction increases when a perceived threat is closer in
+distance and/or in time, because the body is initiating a fight-or-flight response. In addition to
+the physiological component of fear, there are behavioral and cognitive responses to potential
+immediate danger, such as escape and racing thoughts.
+Relative to fear, anxiety is a response that occurs more distally in time or physical space with
+regard to threatening stimuli. Anxiety typically involves worrying about experiencing threats
+that could or will be experienced in the future. Anxiety, a less coherent set of responses than
+fear, can be cognitively “nagging,” such as when a person worries about needing a dental
+appointment or about what he or she said or did in a social situation.
+Despite anxiety and fear being distinct concepts, they are similar, are intricately related, and
+overlap at times. Clearly defining which reactions are fear and which are anxiety is quite
+challenging. Most contemporary assessment strategies crudely evaluate anxiety and fear
+together as one “clump,” although they actually should be independently understood.
+Anxiety and fear are responses that help alert individuals to and protect them from (via
+behavioral avoidance) situations perceived as threatening. With regard to attending to threat,
+however, anxiety and fear function differently. Anxiety functions to prevent or prepare for
+future threatening situations, whereas fear is an in-the-moment response that functions to
+deal with immediate threat. Moderate levels of anxiety and fear experienced when logical and
+legitimate threats are encountered are appropriate and even adaptive, such that they aid in
+the detection and avoidance of danger; however, high levels of these states can result in
+hypervigilance, keeping the body in a constant state of alarm and producing maladaptive
+avoidance of objects or situations that carry very little risk, such as avoiding necessary work-
+related air travel due to concerns about flying.
+Developing problem or pathological anxiety and/or fear can result in clinical problems (e.g.,
+frequent or intense physiological arousal, maladaptive avoidance behavior, persistent and
+troublesome worry) due to the emotional response no longer being useful. Many
+psychological disorders are defined by excessive, impairing, and often irrational fear of or
+anxiety about an object or situation. Termed anxiety disorders, several actually are “fear”
+disorders.
+SAGE SAGE Reference
+Contact SAGE Publications at http://www.sagepub.com.
+The SAGE Encyclopedia of Abnormal and Clinical Psychology
+Page 2 of 3  
+Various therapies and medications are available to treat problem levels of anxiety and fear.
+The similarities and differences between anxiety and fear suggest that the treatment should
+be selected and adapted based on whether the problem is more one of fear or more one of
+anxiety. An example of one of the most efficacious treatments for fear- and anxiety-related
+disorders, exposure therapy involves providing opportunities for new learning and ultimately a
+more accurate appraisal of feared objects or situations so that the feared objects or situations
+are perceived as less threatening. Exposure therapy requires applying the principles of
+extinction learning by having individuals interact with feared objects or situations in a safe and
+controlled environment.
+Anxiety and fear are at the same time fascinating emotions and states that can be terribly
+troubling in their extreme instantiations in phobia and other fear- and anxiety-related
+pathologies. Manifesting themselves in three systems (i.e., behavioral, physiological, and
+cognitive), these distinct but overlapping states are important to the health and well-being of
+humans and other animals, although understanding and regulating them is often challenging.
+See also Anxiety Disorders: Overview ; Avoidance; Exposure Therapy ; Fight-or-Flight
+Response; Sympathetic Nervous System; Worry
+Daniel W. McNeilMatthew C. AriasCameron L. Randall
+http://dx.doi.org/10.4135/9781483365817.n106
+10.4135/9781483365817.n106
+Further Readings
+Craske, M. G. (2003). Origins of phobias and anxiety disorders: Why more women than men?
+Amsterdam, Netherlands: Elsevier.
+Craske, M. G. , Kircanski, K., Zelikowsky, M., Mystkowski, J., Chowdhury, N., & Baker, A.
+(2008). Optimizing inhibitory learning during exposure therapy . Behaviour Research and
+Therapy, 46(1), 5–27. doi:http://dx.doi.org/10.1016/j.brat.2007.10.003
+Foa, E. B., Kozak, M. J., Barlow, D., Cuthbert, B., Foa, U., Hallam, D., & Persons, J. (1986).
+Emotional processing of fear: Exposure to corrective information . Psychological Bulletin ,
+99(1), 20–35. doi:http://dx.doi.org/10.1037/0033-2909.99.1.20
+McNeil, D. W., & Kyle, B. N. (2009). Exposure-based strategies. In S. Cormier, P. S. Nurius, &
+C. J. Osborn (Eds.), Interviewing and change strategies for helpers  (
+6th ed.
+, pp. 486–516). Belmont, CA: Brooks/Cole.
+McNeil, D. W., Vrana, S. R., Melamed, B. G., Cuthbert, B. N., & Lang, P. J. (1993). Emotional
+imagery in simple and social phobia: Fear versus anxiety . Journal of Abnormal Psychology ,
+102(2), 212–225. doi:http://dx.doi.org/10.1037/0021-843X.102.2.212
+Rosen, J. B., & Schulkin, J. (1998). From normal fear to pathological anxiety . Psychological
+Review, 105(2), 325–350. doi:http://dx.doi.org/10.1037//0033-295X.105.2.325
+Van Bockstaele, B., Verschuere, B., Tibboel, H., De Houwer, J., Crombez, G., & Koster, E. H.
+W. (2014). A review of current evidence for the causal impact of attentional bias on fear and
+anxiety. Psychological Bulletin , 140(3), 682–721. doi:http://dx.doi.org/10.1037/a0034834
+SAGE SAGE Reference
+Contact SAGE Publications at http://www.sagepub.com.
+The SAGE Encyclopedia of Abnormal and Clinical Psychology
+Page 3 of 3  

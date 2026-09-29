@@ -1,0 +1,958 @@
+{
+  "source": "Dental_fear_anxiety_and_phobia_causes_diagnostic_criteria_and_the_medical_and_social_impact.pdf",
+  "total_passages": 85,
+  "total_extractions": 59,
+  "extractions": [
+    {
+      "fear_anxiety_term": [
+        "dental fear",
+        "anxiety",
+        "phobia"
+      ],
+      "other_relevant_information": [
+        "causes, diagnostic criteria and the medical and social impact"
+      ],
+      "passage_id": 1
+    },
+    {
+      "fear_anxiety_term": [
+        "dental fear",
+        "anxiety"
+      ],
+      "outcome_or_impact": [
+        "results in avoidant behavior and poorer oral health-related quality of life"
+      ],
+      "other_relevant_information": [
+        "Despite technological advances in modern medical science and practice, many people still associate dental treatment with unpleasant emotional sensations and pain."
+      ],
+      "evidence": [
+        "Dental fear and anxiety are psychological barriers that negatively affect frequency of patient attendance which results in avoidant behavior and poorer oral health-related quality of life."
+      ],
+      "passage_id": 2
+    },
+    {
+      "fear_anxiety_term": [
+        "dental fear",
+        "anxiety",
+        "phobia"
+      ],
+      "outcome_or_impact": [
+        "improving patient’s dental health and self-perceived quality of life"
+      ],
+      "other_relevant_information": [
+        "discussing basic theoretical aspects concerning diagnostic criteria, causes, and impacts",
+        "clarifying differential diagnostic characteristics, clinical features and specific causes may play an important role in proper diagnosing, positive influencing, and management"
+      ],
+      "evidence": [
+        "This paper was therefore aimed at discussing basic theoretical aspects concerning diagnostic cr iteria, causes, and impacts of dental fear, anxiety, and phobia.",
+        "Clarifying their differential diagnostic characteristics, clinical features and specific causes may play an important role in proper diagnosing, positive influencing, and management of this group of patients, thus providing the opportunity for increasing quality of dental healthcare services as well as improving patient’s dental health and self -perceived quality of life."
+      ],
+      "passage_id": 3
+    },
+    {
+      "fear_anxiety_term": [
+        "dental fear",
+        "anxiety"
+      ],
+      "other_relevant_information": [
+        "Despite technological advances in modern medical science and practice, many people still associate dental treatment with unpleasant emotional sensations and pain."
+      ],
+      "evidence": [
+        "Despite technological advances in modern medical science and practice, many people still associate dental treatment with unpleasant emotional sensations and pain."
+      ],
+      "passage_id": 4
+    },
+    {
+      "fear_anxiety_term": [
+        "fear",
+        "anxiety",
+        "dental phobia",
+        "dentophobia"
+      ],
+      "cause_or_trigger": [
+        "past experience",
+        "observation of another's reaction",
+        "rumors",
+        "fear of dental instruments",
+        "fear of needles",
+        "fear of their own blood",
+        "traumatic experiences",
+        "single events",
+        "information from relatives and friends",
+        "information from the media",
+        "personal traits"
+      ],
+      "how_experienced_or_manifested": [
+        "based more on biological reactions"
+      ],
+      "other_relevant_information": [
+        "The threshold of tolerance to pain is different for each person and at the same time is influenced by various factors, the current emotional state of the patient and others.",
+        "Fear and anxiety as an experience differ from dentophobia as they are provoked by a real, immediately present, specific stimulus."
+      ],
+      "evidence": [
+        "[1]",
+        "[2]",
+        "[3,4]",
+        "[1,5]",
+        "[6]"
+      ],
+      "passage_id": 6
+    },
+    {
+      "fear_anxiety_term": [
+        "anxiety"
+      ],
+      "how_experienced_or_manifested": [
+        "painful feeling of tension and anxiety"
+      ],
+      "evidence": [
+        "Different reactions to fear and anxiety have been described in the literature: • emotional - painful feeling of tension and anxiety."
+      ],
+      "passage_id": 7
+    },
+    {
+      "how_experienced_or_manifested": [
+        "vegetative - dilated pupils, pale face, sweating, acceleration of respiratory rate, increased heart rate, changes in blood pressure"
+      ],
+      "passage_id": 8
+    },
+    {
+      "how_experienced_or_manifested": [
+        "anxious facial expression",
+        "psychomotor agitation or vice versa",
+        "stiff position of the body on the dental chair, slightly turned to one side",
+        "mouth not opened enough",
+        "avoidance of eye contact",
+        "nervous movements of arms and legs",
+        "squeezing the back of the dental chair"
+      ],
+      "evidence": [
+        "psychomotor - anxious facial expression, psychomotor agitation or vice versa, stiff position of the body on the dental chair, slightly turned to one side; mouth not opened enough, avoidance of eye contact, nervous movements of arms and legs, squeezing the back of the dental chair, etc."
+      ],
+      "passage_id": 9
+    },
+    {
+      "fear_anxiety_term": [
+        "Dental fear",
+        "anxiety"
+      ],
+      "who": "patients",
+      "how_experienced_or_manifested": [
+        "to talk more than necessary (this is a reaction to relieve tension and fear)",
+        "hostile and inappropriate behavior"
+      ],
+      "response": [
+        "become very circumstantial",
+        "seek contact with the dentist, which gives them a sense of security and support"
+      ],
+      "outcome_or_impact": [
+        "delay or avoid dental treatment"
+      ],
+      "evidence": [
+        "As a result of the fear and anxiety experienced, some patients may become very circumstantial, to talk more than necessary (this is a reaction to relieve tension and fear), to seek contact with the dentist, which gives them a sense of security and support.",
+        "In other patients, more aggressive behavior may be observed, hostile and inappropriate to the Dental fear, anxiety, and phobia 203 atmosphere and attitude of the therapist.",
+        "According to the current literature, fear is one of the most common reasons for many patients to delay or avoid dental treatment [9-11]."
+      ],
+      "passage_id": 10
+    },
+    {
+      "fear_anxiety_term": [
+        "dental anxiety"
+      ],
+      "who": "patients",
+      "outcome_or_impact": [
+        "visit the dentist irregularly or only in case of pain"
+      ],
+      "other_relevant_information": [
+        "a psychological barrier that negatively affects frequency of patient attendance"
+      ],
+      "evidence": [
+        "dental anxiety is a psychological barrier that negatively affects frequency of patient attendance , and generally, patients with high levels of dental anxiety visit the  dentist irregularly or only in case of pain"
+      ],
+      "passage_id": 11
+    },
+    {
+      "fear_anxiety_term": [
+        "dental fear",
+        "anxiety",
+        "phobia"
+      ],
+      "outcome_or_impact": [
+        "positive influence on attendance patterns and behavioral management of this group of patients"
+      ],
+      "other_relevant_information": [
+        "discussing basic theoretical aspects concerning diagnostic criteria, causes, and impacts of dental fear, anxiety, and phobia"
+      ],
+      "evidence": [
+        "Findings will be useful both for patients and dental professionals regarding proper diagnosing, positive influence on attendance patterns and behavioral management of this group of patients."
+      ],
+      "passage_id": 12
+    },
+    {
+      "fear_anxiety_term": [
+        "dental phobia"
+      ],
+      "other_relevant_information": [
+        "The current review is focused on panic disorder and phobic anxiety disorders, including dental phobia as specific type of phobia, with respect to their significance for the dental practice."
+      ],
+      "evidence": [
+        "including dental phobia as specific type of phobia, with respect to their significance for the dental practice."
+      ],
+      "passage_id": 13
+    },
+    {
+      "cause_or_trigger": [
+        "stuff",
+        "room",
+        "fatigue",
+        "high alcohol intake",
+        "coffee",
+        "emotional stress"
+      ],
+      "how_experienced_or_manifested": [
+        "strong psychological and somatic sensations"
+      ],
+      "outcome_or_impact": [
+        "persistent concern about subsequent attacks",
+        "anxiety about the causes and consequences of the attack (loss of control, heart attack, or 'going crazy')",
+        "significant change in behavior"
+      ],
+      "evidence": [
+        "Provoking factors (in one attack) can be stuffy room, fatigue, high alcohol intake, coffee, emotional stress. The attack usually occurs after the application of a certain stimulus. It is followed for a month (or more) by persistent concern about subsequent attacks, anxiety about the causes and consequences of the attack (loss of control, heart attack, or 'going crazy'), and significant change in behavior [14]."
+      ],
+      "passage_id": 15
+    },
+    {
+      "how_experienced_or_manifested": [
+        "pronounced vegetative and conversion symptoms (headache, chest tightness)"
+      ],
+      "response": [
+        "patients begin to look for a companion even to leave home",
+        "especially in severe forms, they cannot be left unaccompanied at home"
+      ],
+      "outcome_or_impact": [
+        "the quality of life of these patients, their social life and interpersonal relationships are significantly deteriorating",
+        "disability occurs as a result of panic disorder"
+      ],
+      "evidence": [
+        "\"Then so-called 'fear of fear' occurs - patients begin to look for a companion even to leave home. Especially in severe forms, they cannot be left unaccompanied at home. The quality of life of these patients, their social life and interpersonal relationships are significantly deteriorating. Disability occurs as a result of panic disorder\"",
+        "Clinical features include pronounced vegetative and conversion symptoms (headache, chest tightness)."
+      ],
+      "passage_id": 17
+    },
+    {
+      "cause_or_trigger": [
+        "panic disorder",
+        "comorbid physical illnesses such as mitral valve prolapse and asthma"
+      ],
+      "other_relevant_information": [
+        "patients with panic disorder need special attention during dental encounter",
+        "dentists need to consult with patient’s physician regarding his/her general health condition as well as to prescribe or administer medications with caution"
+      ],
+      "evidence": [
+        "Patients with panic disorder need special attention during dental encounter.",
+        "Dentists need to consult with patient’s physician regarding his/her general health condition as well as to prescribe or administer medications with caution as the latter may have an adverse interaction with the psychiatric therapy of the patient."
+      ],
+      "passage_id": 18
+    },
+    {
+      "fear_anxiety_term": [
+        "phobia",
+        "specific phobia"
+      ],
+      "how_experienced_or_manifested": [
+        "unfounded fear, expectation of certain objects",
+        "anxiety reaction is difficult to distinguish from a panic attack",
+        "anxious anticipation in a certain situation disrupts daily activities"
+      ],
+      "other_relevant_information": [
+        "Phobia is an excessive, illogical, irrational fear",
+        "Classification of Phobic Anxiety Disorders according to Diagnostic and Statistical Manual of Mental Disorders, 5th Edition (DSM-5) includes specific phobia"
+      ],
+      "evidence": [
+        "Phobia is an anxiety disorder that is provoked only or mainly by well-known situations or objects (external to the person) that do not pose a danger in real time. As a result, these situations, actions, or objects are usually avoided or visited with fear.",
+        "Specific phobia Anxiety is deter mined by a specific situation or an object that brings specific phobia closer to fear. The degree of dysfunction of professional and social functioning is important."
+      ],
+      "passage_id": 19
+    },
+    {
+      "fear_anxiety_term": [
+        "phobia",
+        "anxiety"
+      ],
+      "when": "typically lasting for 6 months or more",
+      "how_experienced_or_manifested": [
+        "palpitations, nausea, diarrhea, sweating, tremors, shortness of breath, suffocation, or dizziness",
+        "tension of anticipation - anxiety about getting into a situation or a possible meeting with the object of the phobia"
+      ],
+      "other_relevant_information": [
+        "The fear, anxiety, or avoidance is persistent, typically lasting for 6 months or more",
+        "In children – the fear or anxiety may be expressed by crying, tantrums, freezing, or clinging"
+      ],
+      "evidence": [
+        "Physical symptoms of anxiety or panic attacks in the event of phobia - palpitations, nausea, diarrhea, sweating, tremors, shortness of breath, suffocation, or dizziness, • Tension of anticipation - anxiety about getting into a situation or a possible meeting with the object of the phobia",
+        "The fear, anxiety, or avoidance is persistent, typically lasting for 6 months or more",
+        "In children – the fear or anxiety may be expressed by crying, tantrums, freezing, or clinging."
+      ],
+      "passage_id": 21
+    },
+    {
+      "fear_anxiety_term": [
+        "social phobia",
+        "global anxiety",
+        "agoraphobia",
+        "claustrophobia",
+        "pathophobia",
+        "social phobia"
+      ],
+      "how_experienced_or_manifested": [
+        "suffocation feeling"
+      ],
+      "other_relevant_information": [
+        "association between bruxism and phobic symptomatology"
+      ],
+      "evidence": [
+        "agoraphobia, claustrophobia, pathophobia, and social phobia were found more frequent in bruxers as also a suffocation feeling",
+        "global anxiety, agoraphobia, claustrophobia, pathophobia, and social phobia were found more frequent in bruxers as also a suffocation feeling"
+      ],
+      "passage_id": 23
+    },
+    {
+      "cause_or_trigger": [
+        "panic disorder"
+      ],
+      "other_relevant_information": [
+        "Agoraphobia is often associated with panic disorder - the fear of certain places or situations arises when patients have triggered a panic attack and thus cause fear of developing subsequent panic attacks [14,27]."
+      ],
+      "evidence": [
+        "It is twice as common in women."
+      ],
+      "passage_id": 24
+    },
+    {
+      "cause_or_trigger": [
+        "anxiety disorders"
+      ],
+      "outcome_or_impact": [
+        "delayed, irregular, or inconsistent use of healthcare services"
+      ],
+      "other_relevant_information": [
+        "increased healthcare utilization among patients with anxiety disorders"
+      ],
+      "evidence": [
+        "Although most of the studies reported increased healthcare utilization among patients with anxiety disorders, it was found also that in some cases anxiety can be associated with delayed, irregular, or inconsistent use of healthcare services [28]."
+      ],
+      "passage_id": 26
+    },
+    {
+      "fear_anxiety_term": [
+        "phobic anxiety disorders",
+        "fear"
+      ],
+      "how_experienced_or_manifested": [
+        "cannot explain or control it",
+        "confused and ashamed of what is happening"
+      ],
+      "response": [
+        "fight against phobias",
+        "desire to hide it from others"
+      ],
+      "other_relevant_information": [
+        "Anxiety is not diminished by the knowledge that other people do not consider the situation dangerous or threatening.",
+        "Phobic anxiety often coexists with depression."
+      ],
+      "evidence": [
+        "Phobic anxiety disorders vary in severity, from mild anxiety to horror.",
+        "Fear of certain objects, activities or situations leads to a strong desire to avoid them, and this often worsens the quality of life.",
+        "Affected people understand that their fear is irrational and out of real danger, but they stil l cannot explain or control it, they are often confused and ashamed of what is happening.",
+        "The fight against phobias is aggravated by the desire to hide it from others."
+      ],
+      "passage_id": 27
+    },
+    {
+      "cause_or_trigger": [
+        "family history of phobia",
+        "specific fears and phobias"
+      ],
+      "other_relevant_information": [
+        "people with a family history of phobia are three times more likely to develop phobias than others",
+        "family pattern of inheritance is typical of blood phobias, injuries, injections, dentists"
+      ],
+      "evidence": [
+        "People with a family history of phobia are three times more likely to develop phobias than others [31,32].",
+        "The family pattern of inheritance is typical of blood phobias, injuries, injections, dentists."
+      ],
+      "passage_id": 28
+    },
+    {
+      "fear_anxiety_term": [
+        "dental phobia"
+      ],
+      "other_relevant_information": [
+        "Dental phobia or fear of the dentist is an irrational fear."
+      ],
+      "evidence": [
+        "Dental phobia Dental phobia or fear of the dentist is an irrational fear."
+      ],
+      "passage_id": 29
+    },
+    {
+      "fear_anxiety_term": [
+        "dental phobia"
+      ],
+      "who": "People",
+      "how_experienced_or_manifested": [
+        "spend hours thinking about their teeth or dentists, imagining the situations of the healing process"
+      ],
+      "other_relevant_information": [
+        "It can coexist with panic disorder, agoraphobia, and others"
+      ],
+      "evidence": [
+        "People who experience dental phobia spend hours thinking about their teeth or dentists, imagining the situations of the healing process."
+      ],
+      "passage_id": 30
+    },
+    {
+      "fear_anxiety_term": [
+        "dental phobia",
+        "Dental fear",
+        "anxiety"
+      ],
+      "how_experienced_or_manifested": [
+        "panic attack"
+      ],
+      "response": [
+        "voidant behaviors towards the threatening environment"
+      ],
+      "outcome_or_impact": [
+        "deterioration of oral health",
+        "socialization",
+        "quality of life"
+      ],
+      "other_relevant_information": [
+        "It can affect oral health.",
+        "Chronically inflamed gums and broken teeth affect general health,",
+        "Difficulty chewing and digesting food can cause serious digestive disorders,",
+        "Dental problems affect speech and correct diction,",
+        "Bad breath and smile affect self-esteem when communicating with others."
+      ],
+      "evidence": [
+        "The frightened person experiences an immediate reaction to anxiety, which can take the form of a panic attack.",
+        "Due to the fact that sufferers exhibit a voidant behaviors towards the threatening environment, the presence of dental phobia can lead to deterioration of oral health, socialization, and quality of life of the individual [10,36].",
+        "The Dental fear, anxiety, and phobia problem concerns not only oral health, but also the general condition of the body: • Chronically inflamed gums and broken teeth affect general health, • Difficulty chewing and digesting food can cause serious digestive disorders, • Dental problems affect speech and correct diction, • Bad breath and smile affect self-esteem when communicating with others."
+      ],
+      "passage_id": 31
+    },
+    {
+      "fear_anxiety_term": [
+        "dental phobia"
+      ],
+      "cause_or_trigger": [
+        "generalized anxiety disorder",
+        "panic disorder",
+        "agoraphobia"
+      ],
+      "other_relevant_information": [
+        "dental phobia is defined as persistent fear, often unnecessary or unreasonable. It is also assumed that the person does not admit to experiencing such fear, and this is manifested as a result of a protective reaction or mental disorder"
+      ],
+      "evidence": [
+        "Studies have shown that dental phobia is widespread in environments where other anxiety disorders have occurred, such as generalized anxiety disorder, panic disorder, agoraphobia, etc. [35,37].",
+        "According to the Diagnostic and Statistical Manual of Mental Disorders (DSM -5), dental phobia is defined as persistent fear, often unnecessary or unreasonable. It is also assumed that the person does not admit to experiencing such fear, and this is manifested as a result of a protective reaction or mental disorder [13]."
+      ],
+      "passage_id": 32
+    },
+    {
+      "fear_anxiety_term": [
+        "dental phobia"
+      ],
+      "other_relevant_information": [
+        "This fear can be provoked by many causes - some rationally and others more irrationally."
+      ],
+      "evidence": [
+        "This fear can be provoked by many causes - some rationally and others more irrationally."
+      ],
+      "passage_id": 33
+    },
+    {
+      "fear_anxiety_term": [
+        "anxiety",
+        "fear"
+      ],
+      "cause_or_trigger": [
+        "stories and events of others",
+        "own experiences in the dental office"
+      ],
+      "other_relevant_information": [
+        "Many people experience anxiety and fear of dental treatment, but this does not prevent them from carrying out the necessary treatment. In these cases, we cannot talk about dentophobia.",
+        "available literature appears unable to capture and measure the multifaceted constructs of dental anxiety, fear, and phobia, and therefore, they tend to be used interchangeably"
+      ],
+      "evidence": [
+        "Many people experience anxiety and fear of dental treatment, but this does not prevent them from carrying out the necessary treatment.",
+        "available literature appears unable to capture and measure the multifaceted constructs of dental anxiety, fear, and phobia, and therefore, they tend to be used interchangeably [38]."
+      ],
+      "passage_id": 34
+    },
+    {
+      "fear_anxiety_term": [
+        "dental anxiety"
+      ],
+      "how_experienced_or_manifested": [
+        "a reaction of unknown danger",
+        "the fear of the unknown"
+      ],
+      "other_relevant_information": [
+        "It is extremely common, and most people experience some degree of dental anxiety, especially if they are about to have something done to them that has never been done to them in the dental office."
+      ],
+      "evidence": [
+        "Dental anxiety is a reaction of unknown danger. It is extremely common, and most people experience some degree of dental anxiety, especially if they are about to have something done to them that h as never been done to them in the dental office."
+      ],
+      "passage_id": 35
+    },
+    {
+      "fear_anxiety_term": [
+        "Dental fear"
+      ],
+      "other_relevant_information": [
+        "This form includes a response related to threatening stimuli."
+      ],
+      "passage_id": 36
+    },
+    {
+      "fear_anxiety_term": [
+        "dental phobia"
+      ],
+      "outcome_or_impact": [
+        "complete avoidance of perceived danger",
+        "avoid dental care at all costs until the physical problem or psychological burden of the phobia becomes unbearable"
+      ],
+      "evidence": [
+        "Dental phobia is defined as a persistent, unrealistic, and strong fear of a specific stimulus, leading to complete avoidance of perceived danger. Someone with dental phobia will avoid dental care at all costs until the physical problem or psychological burden of the phobia becomes unbearable."
+      ],
+      "passage_id": 37
+    },
+    {
+      "fear_anxiety_term": [
+        "dental phobia"
+      ],
+      "cause_or_trigger": [
+        "Fear of a specific, painful or unpleasant stimulus (needle, dental machine, certain sounds or smells)",
+        "Anxiety from a somatic reaction (allergic reaction to local anesthesia, seizure or panic attack)",
+        "anxiety to any strange and unpredictable situation",
+        "Disorders associated with general anxiety or multifactorial phobias",
+        "Lack of trust in dental staff caused by social phobias"
+      ],
+      "evidence": [
+        "\"Fear of a specific, painful or unpleasant stimulus (needle, dental machine, certain sounds or smells),\"",
+        "\"Anxiety from a somatic reaction (allergic reaction to local anesthesia, seizure or panic attack),\"",
+        "\"anxiety to any strange and unpredictable situation,\"",
+        "\"Disorders associated with general anxiety or multifactorial phobias,\"",
+        "\"Lack of trust in dental staff caused by social phobias.\""
+      ],
+      "passage_id": 38
+    },
+    {
+      "fear_anxiety_term": [
+        "dental phobia"
+      ],
+      "cause_or_trigger": [
+        "exogenous (outside)",
+        "endogenous (inside)"
+      ],
+      "evidence": [
+        "Other schemes for classifying dental phobia are related to the reasons for its occurrence. Here, the fear of visiting the dentist's office is divided into two types: exogenous (outside) and endogenous (inside  dental phobi as."
+      ],
+      "passage_id": 39
+    },
+    {
+      "fear_anxiety_term": [
+        "dental phobia"
+      ],
+      "cause_or_trigger": [
+        "traumatic dental experiences",
+        "indirect influences from significant other people and the media",
+        "other anxiety disorders",
+        "heredity",
+        "personality traits"
+      ],
+      "evidence": [
+        "Exogenous dental phobia is defined as fear associated with traumatic dental experiences or indirect influences from significant other people and the media.",
+        "Endogenous dental phobia is thought to have originated from other anxiety disorders or is based on factors such as heredity and personality traits."
+      ],
+      "passage_id": 40
+    },
+    {
+      "fear_anxiety_term": [
+        "dentophobia"
+      ],
+      "cause_or_trigger": [
+        "Certain facts, events, previous experiences",
+        "anatomical and physiological features of the maxillofacial area",
+        "reduced pain threshold",
+        "individual features of the central nervous system",
+        "Bad dental experiences"
+      ],
+      "other_relevant_information": [
+        "The specific causes of dental phobia could be represented by [42]: Bad dental experiences - this includes not only a painful visit, but also humiliating behavior demonstrated to the patient."
+      ],
+      "evidence": [
+        "Certain facts, events, previous experiences, anatomical and physiological features of the maxillofacial area, reduced pain threshold, individual features of the central nervous system, can trigger the appearance of dentophobia [9,40,41].",
+        "The specific causes of dental phobia could be represented by [42]: Bad dental experiences - this includes not only a painful visit, but also humiliating behavior demonstrated to the patient."
+      ],
+      "passage_id": 41
+    },
+    {
+      "fear_anxiety_term": [
+        "dental phobia"
+      ],
+      "who": [
+        "people who have had physical and/or sexual violence in the past",
+        "children"
+      ],
+      "cause_or_trigger": [
+        "past violence",
+        "physical and emotional abuse by a person with a prominent position in society",
+        "bad experiences with the dentist"
+      ],
+      "other_relevant_information": [
+        "dental phobia is present in people who have had physical and/or sexual violence in the past, especially as children."
+      ],
+      "evidence": [
+        "Past violence - dental phobia is present in people who have had physical and/or sexual violence in the past, especially as children."
+      ],
+      "passage_id": 42
+    },
+    {
+      "cause_or_trigger": [
+        "negligent dentist"
+      ],
+      "how_experienced_or_manifested": [
+        "constant level of tension"
+      ],
+      "other_relevant_information": [
+        "A negligent dentist - this means a dentist who has caused pain or damage to a tooth of the patient. This memory can maintain a constant level of tension."
+      ],
+      "evidence": [
+        "This memory can maintain a constant level of tension."
+      ],
+      "passage_id": 43
+    },
+    {
+      "fear_anxiety_term": [
+        "afraid"
+      ],
+      "who": [
+        "the patient"
+      ],
+      "cause_or_trigger": [
+        "Humiliation - the dentist was tactless and spoke sharply about the dental status or the patient's hygiene."
+      ],
+      "outcome_or_impact": [
+        "The patient was afraid to visit a dentist so as not to experience such humiliation again."
+      ],
+      "evidence": [
+        "Humiliation - the dentist was tactless and spoke sharply about the dental status or the patient's hygiene. The remark turned out to be decisive and the patient was afraid to visit a dentist so as not to experience such humiliation again."
+      ],
+      "passage_id": 44
+    },
+    {
+      "fear_anxiety_term": [
+        "dental phobia"
+      ],
+      "who": [
+        "child",
+        "parent",
+        "relatives and acquaintances"
+      ],
+      "cause_or_trigger": [
+        "family history of dental phobia",
+        "surrounded by relatives and acquaintances who tell horrifying stories about their experiences in the dental office"
+      ],
+      "other_relevant_information": [
+        "When a child grew up in an environment where one parent had dental phobia, there is a real danger that the child will experience the same problem."
+      ],
+      "evidence": [
+        "Family history of dental phobia - when a child grew up in an environment where one parent ha d dental phobia, there is a real danger that the child will experience the same problem."
+      ],
+      "passage_id": 45
+    },
+    {
+      "cause_or_trigger": [
+        "genetic predisposition"
+      ],
+      "other_relevant_information": [
+        "many people for centuries are born ready for a type of phobia. They quickly learn to experience phobias of snakes, insects, phobias of needles, knives."
+      ],
+      "evidence": [
+        "Genetic predisposition - many people for centuries are born ready for a type of phobia. They quickly learn to experience phobias of snakes, insects, phobias of needles, knives."
+      ],
+      "passage_id": 46
+    },
+    {
+      "fear_anxiety_term": [
+        "dental phobia",
+        "Posttraumatic Dental-Care Anxiety (PTDA)"
+      ],
+      "event_or_context": [
+        "unexpected experiences during dental treatment"
+      ],
+      "cause_or_trigger": [
+        "obsessive thoughts or shocking feelings"
+      ],
+      "other_relevant_information": [
+        "people who have experienced unexpected experiences during dental treatment, such as obsessive thoughts or shocking feelings, also develop dental phobia. This condition has been described in the literature as Posttraumatic Dental-Care Anxiety (PTDA)"
+      ],
+      "evidence": [
+        "Post-traumatic stress - according to several studies, people who have experienced unexpected experiences during dental treatment, such as obsessive thoughts or shocking feelings, also develop dental phobia. This condition has been described in the lit erature as Posttraumatic Dental-Care Anxiety (PTDA) [43]."
+      ],
+      "passage_id": 47
+    },
+    {
+      "fear_anxiety_term": [
+        "dental phobia"
+      ],
+      "other_relevant_information": [
+        "Who is affected by dental phobia?"
+      ],
+      "passage_id": 48
+    },
+    {
+      "fear_anxiety_term": [
+        "dental phobia"
+      ],
+      "other_relevant_information": [
+        "Everyone could be affected by dental phobia! It does not matter what age, gender, or social status."
+      ],
+      "passage_id": 49
+    },
+    {
+      "fear_anxiety_term": [
+        "expressed, unfounded fear",
+        "severe anxiety",
+        "anxiety about impending painful treatment",
+        "anxiety reaction with characteristics of a panic attack",
+        "anxious anticipation"
+      ],
+      "event_or_context": [
+        "dental treatment",
+        "entering the dental office",
+        "painful treatment"
+      ],
+      "when": "in anticipation of",
+      "where": "the dental office",
+      "how_experienced_or_manifested": [
+        "disrupts daily activities"
+      ],
+      "response": [
+        "avoiding behavior"
+      ],
+      "outcome_or_impact": [
+        "severely deteriorated dental status"
+      ],
+      "evidence": [
+        "• Expressed, unfounded fear in anticipation of dental treatment",
+        "• Severe anxiety when entering the dental office",
+        "• Anxiety about impending painful treatment",
+        "• Anxiety reaction with characteristics of a panic attack",
+        "• Anxious anticipation disrupts daily activities",
+        "• Avoiding behavior when dental care is needed, • Severely deteriorated dental status due to above mentioned reasons."
+      ],
+      "passage_id": 50
+    },
+    {
+      "fear_anxiety_term": [
+        "anxiety",
+        "panic attacks"
+      ],
+      "event_or_context": "getting into the dental office, possible meeting with the dentist and subsequent treatment",
+      "how_experienced_or_manifested": [
+        "palpitations",
+        "rapid heartbeat",
+        "nausea",
+        "diarrhea",
+        "sweating",
+        "tremors",
+        "shortness of breath",
+        "feeling of suffocation or dizziness"
+      ],
+      "other_relevant_information": [
+        "Tension of anticipation - anxiety from getting into the dental office, possible meeting with the dentist and subsequent treatment."
+      ],
+      "evidence": [
+        "• Physical symptoms of anxiety or panic attacks palpitations, rapid heartbeat, nausea, diarrhea, sweating, tremors, shortness of breath, feeling of suffocation or dizziness, • Tension of anticipation - anxiety from getting into the dental office, po ssible meeting with the dentist and subsequent treatment."
+      ],
+      "passage_id": 51
+    },
+    {
+      "cause_or_trigger": [
+        "pain",
+        "extraction",
+        "nature of the dental procedure planned",
+        "age",
+        "gender",
+        "level of education",
+        "frequency of dental visits"
+      ],
+      "evidence": [
+        "According to Jeddy et al. in 2018, pain and extraction are the most common procedures inciting duress and anxiety. Along with nature of the dental procedure planned, the authors revealed age, gende r, level of education and frequency of dental visits as being the most influencing factors and having a direct effect on the patient's state of mind and anxiety [40]."
+      ],
+      "passage_id": 52
+    },
+    {
+      "fear_anxiety_term": [
+        "dental fear",
+        "anxiety",
+        "phobia"
+      ],
+      "outcome_or_impact": [
+        "more likely to avoid dental treatment",
+        "poorer oral health",
+        "associated quality of life"
+      ],
+      "other_relevant_information": [
+        "represent a serious problem even in contemporary dental practice",
+        "determined by a variety of causes"
+      ],
+      "evidence": [
+        "Dental fear, anxiety and phobia represent a serious problem even in contemporary dental practice.",
+        "Moreover, patients with higher dental anxiety and phobia are more likely to avoid dental treatment, which results in poorer oral health  and associated quality of life."
+      ],
+      "passage_id": 53
+    },
+    {
+      "other_relevant_information": [
+        "clarifying the characteristics of differential diagnostic, clinical features and specific causes of dental fear, anxiety and phobia may play an important role in proper diagnosing, positive influencing, and management of this group of patients, thus providing the opportunity for increasing quality of dental healthcare services as well as improving patient’s dental health and self -perceived quality of life."
+      ],
+      "passage_id": 54
+    },
+    {
+      "fear_anxiety_term": [
+        "dental phobia"
+      ],
+      "other_relevant_information": [
+        "Types, diagnostic characteristics, clinical symptoms, and specific causes of dental phobia are presented with respect to its relevance to dental practice."
+      ],
+      "evidence": [
+        "Types, diagnostic characteristics, clinical symptoms, and specific causes of dental phobia are presented with respect to its relevance to dental practice."
+      ],
+      "passage_id": 56
+    },
+    {
+      "fear_anxiety_term": [
+        "dental fear",
+        "anxiety",
+        "phobia"
+      ],
+      "other_relevant_information": [
+        "Dental fear, anxiety, and phobia are discussed and presented in differential diagnostic aspect."
+      ],
+      "evidence": [
+        "Dental fear, anxiety, and phobia are discussed and presented in differential diagnostic aspect."
+      ],
+      "passage_id": 57
+    },
+    {
+      "fear_anxiety_term": [
+        "fear",
+        "anxiety"
+      ],
+      "outcome_or_impact": [
+        "avoiding dental treatment"
+      ],
+      "other_relevant_information": [
+        "Fear of blood, injury, and injections related to dental anxiety among 18-year-olds in Norway."
+      ],
+      "evidence": [
+        "Fear of blood, injury, and injections, and its relationship to dental anxiety and probability of avoiding dental treatment among 18 -year-olds in Norway. Int J Paediatr Dent . 2008 May;18(3):163 -9."
+      ],
+      "passage_id": 61
+    },
+    {
+      "fear_anxiety_term": [
+        "afraid",
+        "fear"
+      ],
+      "other_relevant_information": [
+        "Why are people afraid of the dentist? Observations and explanations."
+      ],
+      "passage_id": 63
+    },
+    {
+      "fear_anxiety_term": [
+        "dental fear",
+        "dental anxiety",
+        "dental phobia"
+      ],
+      "who": "patients",
+      "other_relevant_information": [
+        "multifaceted views of dental fear in a diagnostic interview"
+      ],
+      "evidence": [
+        "Patients' multifaceted views of dental fear in a diagnostic interview.",
+        "Strategies to manage patients with dental anxiety and dental phobia: literature review."
+      ],
+      "passage_id": 66
+    },
+    {
+      "fear_anxiety_term": [
+        "dental anxiety"
+      ],
+      "other_relevant_information": [
+        "An understudied problem in youth."
+      ],
+      "evidence": [
+        "Dental anxiety: An understudied problem in youth."
+      ],
+      "passage_id": 67
+    },
+    {
+      "other_relevant_information": [
+        "Diagnostic and statistical manual of mental disorders, 5th edition, and clinical utility."
+      ],
+      "passage_id": 69
+    },
+    {
+      "other_relevant_information": [
+        "The oral health of people with anxiety and depressive disorders - a systematic review and meta-analysis."
+      ],
+      "passage_id": 71
+    },
+    {
+      "fear_anxiety_term": [
+        "dental anxiety"
+      ],
+      "who": [
+        "patients"
+      ],
+      "other_relevant_information": [
+        "Short-term antidepressant treatment of comorbid dental anxiety in patients with panic disorder"
+      ],
+      "evidence": [
+        "Short -term antidepressant treatment of comorbid dental anxiety in patients with panic disorder."
+      ],
+      "passage_id": 80
+    },
+    {
+      "fear_anxiety_term": [
+        "fear",
+        "anxiety"
+      ],
+      "other_relevant_information": [
+        "Management of fear and anxiety in the dental clinic: a review",
+        "Posttraumatic dental care anxiety (PTDA): Is 'dental phobia' a misnomer?"
+      ],
+      "passage_id": 83
+    },
+    {
+      "fear_anxiety_term": [
+        "dental anxiety",
+        "dental fear"
+      ],
+      "who": "patients referred to Isfahan Dental School, Iran",
+      "where": "Isfahan Dental School, Iran",
+      "other_relevant_information": [
+        "The prevalence of dental anxiety and fear in patients referred to Isfahan Dental School, Iran."
+      ],
+      "passage_id": 85
+    }
+  ]
+}
