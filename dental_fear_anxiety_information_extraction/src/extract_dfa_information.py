@@ -95,8 +95,8 @@ RULES:
 - Use ONLY information explicitly stated in the provided text; do not
   infer or use outside knowledge.
 - Preserve the terminology used in the source.
-- Omit any field whose value is missing or null.
-- Keep [] for list fields when no relevant information is present.
+- Use null for missing scalar fields.
+- Use [] for missing list fields.
 - Do not duplicate the same information across fields.
 - Group information describing the same phenomenon into one record;
   create separate records only for clearly distinct phenomena,
